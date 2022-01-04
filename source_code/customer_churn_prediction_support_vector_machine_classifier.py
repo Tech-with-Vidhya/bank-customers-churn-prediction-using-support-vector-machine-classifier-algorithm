@@ -584,6 +584,10 @@ for p1, p2, p3, p4, p5, p6, p7, p8, p9, p10 in product(C, kernel, degree, gamma,
     
 
 
+# ## 16. CONFUSION MATRIX - OPTIMIZED MODEL
+
+# ![confusion_matrix_support_vector_machine_classifier.jpg](attachment:40792263-4523-458b-8708-e50a1b5e8a9f.jpg)
+
 # ### As we can see from the above results; the Support Vector Machine (SVM) Classifier Model tuned with the key parameters as C = 1.0, kernel = 'linear', gamma = 'scale' has performed better in the validation data with the accuracy of about 78.9%.
 # 
 # ### Hence this model can be considered as the Optimized Model for further deployment.
